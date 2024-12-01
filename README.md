@@ -1,3 +1,7 @@
+# This solution
+
+<img alt="Desktop-sized screenshot of an agency landing page" src="./three-platforms-screenshot.png" style="" />
+
 # Huckleberry Agency Website
 
 In this workshop, you'll build a minimal landing page for an agency.
